@@ -1,4 +1,4 @@
-# OpenCV Görüntü İşleme Çalışmaları
+# 🎨 OpenCV Görüntü İşleme Çalışmaları
 
 Bu proje, **OpenCV** kullanılarak yapılan görüntü işleme tekniklerini içerir.  
 Eğitim kapsamında öğrendiğim ve uyguladığım örnekler, temel kavramlardan ileri düzey projelere kadar geniş bir yelpazeyi kapsıyor.

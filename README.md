@@ -1,0 +1,1 @@
+# opencv-goruntu-isleme-egitimi
